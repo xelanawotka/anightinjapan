@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: xelanawotka@gmail.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: jekyllrb
 github_username: xelanawotka
 theme: minima
